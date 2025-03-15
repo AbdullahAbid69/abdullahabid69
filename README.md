@@ -75,5 +75,5 @@ Thank you for visiting my profile. I look forward to connecting with you!
 
 💬 Ask me about HTML & CSS | Figma | Illustrator |  | Bootstrap | JavaScript | PHP | Laravel| Wix
 
-📫 You can reach me at abdullahabid.developer@gmail.com | https://www.linkedin.com/in/abdullahabid69 | https://github.com/abdullahabid69
+📫 You can reach me at info@graphofix.com | https://www.linkedin.com/in/abdullahabid69 | https://github.com/abdullahabid69
 abdullahabid69
