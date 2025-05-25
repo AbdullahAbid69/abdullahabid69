@@ -1,6 +1,6 @@
 # Hi, I'm Abdullah Abid! 👋
 
-**Web Developer | Laravel & Vue.js**
+**Web Developer | Laravel**
 
 ---
 <img align="right" height="150" src="https://avatars.githubusercontent.com/u/92378512?v=4" />
