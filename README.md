@@ -37,7 +37,7 @@ I am passionate about writing clean, maintainable code and continuously explorin
 I am always interested in discussing new projects, collaboration opportunities, and innovative ideas. Please feel free to reach out to me through the following channels:
 
 <div align="left">
-  <a href="https://www.instagram.com/abdullahabid393" target="_blank">
+  <a href="https://www.instagram.com/abdullah_abid_seo/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo" />
   </a>
   <a href="mailto:abdullahabid.developer@gmail.com" target="_blank">
